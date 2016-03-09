@@ -1,0 +1,11 @@
+RaggedPi Project
+Codename: ApplePi
+
+Central hub unit for a customized home automation system.
+
+Features:
+- 5" touchscreen lcd display
+- webserver
+- zWave server
+- wifi
+- bluetooth 4.0
